@@ -1,4 +1,54 @@
-## Hi there 👋
+<!-- Banner de cabeçalho (Você pode criar um no Canva ou usar uma imagem/GIF) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Oi,%20aqui%20é%20a%20Marcia%20Mendes!&fontSize=40" width="100%" />
+</div>
+
+<br />
+
+<!-- Apresentação com Efeito de Digitação (Typing Effect) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Analista+de+Marketing;Aprendiz+de+Várias+Coisas;Bem-vindo(a)+ao+meu+mundo!" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+### ☺️ Quem sou eu em 3 linhas
+- 💻 **Designer de Mídias Digitais** em formação
+- 📈 **Analista de Marketing** e curiosa
+- 📫 Como ~~não~~ me encontrar: **profissional.marciamendes@gmail.com**
+
+---
+
+### 💻 Dizem os boatos que sei 2 centavos de...
+<div align="center">
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
+
+<br />
+
+---
+
+### 📊 Até agora temos...
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciammendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciammendes&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+### 🌐 Redes sociais ~~de uma low profile~~
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcia-mmendes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mah.mmendes/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</div>
+
+<!--## Hi there 👋>
 
 <!--
 **marciammendes/marciammendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

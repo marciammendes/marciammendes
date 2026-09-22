@@ -1,6 +1,6 @@
 <!-- Banner de cabeçalho -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=200&section=header&text=Oi,%20aqui%20é%20a%20Marcia!&fontSize=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=B39DDB,7B1FA2,3F51B5&height=180&section=header&text=Oi,%20aqui%20é%20a%20Marcia%20Mendes!&fontSize=38" width="100%" />
 </div>
 <!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=200&section=header&text=Oi,%20aqui%20é%20a%20Marcia%20Mendes!&fontSize=40" width="100%" />

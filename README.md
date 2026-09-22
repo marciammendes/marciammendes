@@ -1,7 +1,7 @@
 <!-- Banner de cabeçalho -->
-<div align="center">
+<!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=200&section=header&text=Oi,%20aqui%20é%20a%20Marcia!&fontSize=40" width="100%" />
-</div>
+</div>-->
 
 <br />
 

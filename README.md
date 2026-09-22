@@ -12,14 +12,14 @@
 
 ---
 
-### ☺️ Quem sou eu em 3 linhas
+#### ☺️ Quem sou eu em 3 linhas
 - 💻 **Designer de Mídias Digitais** em formação
 - 📈 **Analista de Marketing** e curiosa
 - 📫 Como ~~não~~ me encontrar: **profissional.marciamendes@gmail.com**
 
 ---
 
-### 💻 Dizem os boatos que sei 2 centavos de...
+#### 💻 Dizem os boatos que sei 2 centavos de...
 <div align="left">
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -29,14 +29,14 @@
 
 ---
 
-### 📊 Até agora temos...
+#### 📊 Até agora temos...
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=marciammendes&theme=dracula" />
 </div>
 
 ---
 
-### 🌐 Redes sociais ~~de uma low profile~~
+#### 🌐 Redes sociais ~~de uma low profile~~
 <div align="left">
   <a href="https://www.linkedin.com/in/marcia-mmendes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

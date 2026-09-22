@@ -20,7 +20,7 @@
 ---
 
 ### 💻 Dizem os boatos que sei 2 centavos de...
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div>
@@ -30,7 +30,7 @@
 ---
 
 ### 📊 Até agora temos...
-<div align="center">
+<div align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=marciammendes&show_icons=true&theme=dracula" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciammendes&layout=compact&theme=dracula" />
 </div>
@@ -38,7 +38,7 @@
 ---
 
 ### 🌐 Redes sociais ~~de uma low profile~~
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/marcia-mmendes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

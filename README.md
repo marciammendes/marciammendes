@@ -30,9 +30,8 @@
 ---
 
 ### 📊 Até agora temos...
-<div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=marciammendes&show_icons=true&theme=dracula" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciammendes&layout=compact&theme=dracula" />
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=marciammendes&theme=dracula" />
 </div>
 
 ---

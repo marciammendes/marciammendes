@@ -1,13 +1,13 @@
 <!-- Banner de cabeçalho -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Oi,%20aqui%20é%20a%20Marcia%20Mendes!&fontSize=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B39DDB&height=200&section=header&text=Oi,%20aqui%20é%20a%20Marcia%20Mendes!&fontSize=40" width="100%" />
 </div>
 
 <br />
 
 <!-- Apresentação com Efeito de Digitação (Typing Effect) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Analista+de+Marketing;Aprendiz+de+V%C3%A1rias+Coisas;Bem-vindo(a)+ao+meu+mundo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B39DDB&center=true&vCenter=true&width=450&lines=Analista+de+Marketing;Aprendiz+de+v%C3%A1rias+coisas;Bem-vindo(a)+ao+meu+mundo!" alt="Typing SVG" />
 </div>
 
 ---

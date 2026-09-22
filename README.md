@@ -1,4 +1,4 @@
-<!-- Banner de cabeçalho (Você pode criar um no Canva ou usar uma imagem/GIF) -->
+<!-- Banner de cabeçalho -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Oi,%20aqui%20é%20a%20Marcia%20Mendes!&fontSize=40" width="100%" />
 </div>
@@ -7,9 +7,7 @@
 
 <!-- Apresentação com Efeito de Digitação (Typing Effect) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Analista+de+Marketing;Aprendiz+de+Várias+Coisas;Bem-vindo(a)+ao+meu+mundo!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=Analista+de+Marketing;Aprendiz+de+V%C3%A1rias+Coisas;Bem-vindo(a)+ao+meu+mundo!" alt="Typing SVG" />
 </div>
 
 ---
@@ -33,8 +31,8 @@
 
 ### 📊 Até agora temos...
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciammendes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciammendes&layout=compact&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=marciammendes&show_icons=true&theme=dracula" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciammendes&layout=compact&theme=dracula" />
 </div>
 
 ---
@@ -46,6 +44,7 @@
   </a>
   <a href="https://www.instagram.com/mah.mmendes/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
 <!--## Hi there 👋>

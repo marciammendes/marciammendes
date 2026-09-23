@@ -15,7 +15,7 @@
 #### ☺️ Quem sou eu em 3 linhas
 - 💻 **Designer de Mídias Digitais** em formação
 - 📈 **Analista de Marketing** e curiosa
-- 📫 Em casos de não-emergência: **profissional.marciamendes@gmail.com**
+- 📫 Em casos de não-emergência: profissional.marciamendes@gmail.com
 
 ---
 

@@ -36,7 +36,7 @@
 
 ---
 
-#### 🌐 Redes sociais ~~de uma low profile~~
+#### 🌐 Redes sociais  ~~de uma low profile~~
 <div align="left">
   <a href="https://www.linkedin.com/in/marcia-mmendes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

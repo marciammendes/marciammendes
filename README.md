@@ -7,7 +7,7 @@
 
 <!-- Apresentação com Efeito de Digitação (Typing Effect) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B39DDB&center=true&vCenter=true&width=450&lines=Analista+de+Marketing;Aprendiz+de+v%C3%A1rias+coisas;Bem-vindo(a)+ao+meu+mundo!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=B39DDB&center=true&vCenter=true&width=450&lines=Bem-vindo(a)+ao+meu+mundo!;Analista+de+Marketing;Aprendiz+de+v%C3%A1rias+coisas" alt="Typing SVG" />
 </div>
 
 ---
